@@ -1,0 +1,7 @@
+[
+  {"browser": "chrome", "type": "history", "url": "https://evil.example/login", "title": "Evil Login", "visit_time": "2026-01-10T03:10:00Z"},
+  {"browser": "chrome", "type": "history", "url": "https://mail.example.com", "title": "Mail", "visit_time": "2026-01-10T09:00:00Z"},
+  {"browser": "chrome", "type": "cookie", "host": ".evil.example", "name": "session", "value": "abc", "expires": "2026-02-01T00:00:00Z"},
+  {"browser": "firefox", "type": "history", "url": "https://pastebin.com/raw/xyz", "title": "paste", "visit_time": "2026-01-10T03:20:00Z"},
+  {"browser": "firefox", "type": "download", "url": "https://evil.example/payload.exe", "path": "C:/Users/user/Downloads/payload.exe", "start_time": "2026-01-10T03:15:00Z"}
+]
